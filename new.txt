@@ -5,3 +5,4 @@ Hello Diep
 =======
 Hello Diep and Nate also.
 >>>>>>> 6d8aaa48c7de5d6a6e693c4e6b045e788bda13a5
+Living in Seattle is so much fun
